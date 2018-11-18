@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    margin-top: 80px;
+}
+
+body {
+    margin-bottom: 120px;
+}
+
+.jumbotron {
+    background-color: #fff;
+}
+
+.description {
+    margin-bottom: 30px;
+    color: #aaa;
+}
+
+.attendee {
+    padding: 12px 22px;
+    margin: 4px;
+}
+
+.course-box {
+    height: 300px;
+    border: 1px solid #ccc;
+    margin: 20px;
+}
