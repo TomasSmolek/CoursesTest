@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "name": "FLOWIITEST",
+  "private": true,
+  "devDependencies": {},
+  "dependencies": {
+    "@types/jquery": "^3.3.22"
+  }
+}
